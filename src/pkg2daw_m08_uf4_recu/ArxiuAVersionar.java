@@ -17,7 +17,7 @@ public class ArxiuAVersionar {
         return op1 * op2;
     }
     
-    public float Resta(){
-        return op1 - op2;
+    public float Divisio(){
+        return op1 / op2;
     }
 }
