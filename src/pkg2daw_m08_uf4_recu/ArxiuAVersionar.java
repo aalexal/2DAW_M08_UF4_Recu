@@ -16,4 +16,8 @@ public class ArxiuAVersionar {
     public int Suma(){
         return op1 + op2;
     }
+    
+    public int Resta(){
+        return op1 - op2;
+    }
 }
