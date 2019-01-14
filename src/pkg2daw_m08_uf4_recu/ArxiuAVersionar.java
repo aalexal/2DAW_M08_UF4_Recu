@@ -11,13 +11,13 @@ package pkg2daw_m08_uf4_recu;
  */
 public class ArxiuAVersionar {
     
-    int op1, op2;
+    float op1, op2;
     
-    public int Suma(){
+    public float Suma(){
         return op1 + op2;
     }
     
-    public int Resta(){
+    public float Resta(){
         return op1 - op2;
     }
 }
