@@ -12,4 +12,8 @@ package pkg2daw_m08_uf4_recu;
 public class ArxiuAVersionar {
     
     int op1, op2;
+    
+    public int Suma(){
+        return op1 + op2;
+    }
 }
