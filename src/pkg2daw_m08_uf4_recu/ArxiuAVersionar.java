@@ -12,8 +12,4 @@ package pkg2daw_m08_uf4_recu;
 public class ArxiuAVersionar {
     
     float op1, op2;
-    
-    public float Multiplicacio(){
-        return op1 * op2;
-    }
 }
