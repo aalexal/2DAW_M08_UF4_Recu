@@ -10,5 +10,5 @@ package pkg2daw_m08_uf4_recu;
  * @author alexa
  */
 public class ArxiuAVersionar {
-    
+    int edicioDesdeNuvol = 1;
 }
